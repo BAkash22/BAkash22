@@ -1,6 +1,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Akash B</h1>
-Enthusiastic and dedicated Computer Science Engineering student seeking challenging opportunities to apply my technical skills and passion for innovation. <br><br>🔭 I’m currently working on Data Analysis<br><br>🌱 I’m currently learning Deep Learning<br><br>💬 Ask me about Tech<br><br>📫 How to reach me akashb2206@gmail.com<br><br>⚡ Thought Think Big - Start Small - Act Now
+Enthusiastic and dedicated Computer Science Engineering student seeking challenging opportunities to apply my technical skills and passion for innovation. <br<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakash22&label=Profile%20views&color=0e75b6&style=flat" alt="bakash22" /> </p>
+
+- 🔭 I’m currently working on **Data Analysis**
+
+- 🌱 I’m currently learning **Deep Learning**
+
+- 💬 Ask me about **Tech**
+
+- 📫 How to reach me **akashb2206@gmail.com**
+
+- ⚡ Thought **Think Big - Start Small - Act Now**
+
+<p align="left">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akashb22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-b-2736a7238) 

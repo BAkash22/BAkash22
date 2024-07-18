@@ -13,7 +13,7 @@ Enthusiastic and dedicated Computer Science Engineering student seeking challeng
 
 - ⚡ Thought **Think Big - Start Small - Act Now**
 
-<p align="left">
+<p align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akashb22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-b-2736a7238) 

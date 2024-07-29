@@ -22,7 +22,7 @@
  <p align="center">
 🔭 I’m currently working on <b>Data Visuatization-Tableau</b>
  <p align="center">
- 🌱 I’m currently learning <b>Deep Learning</b>
+ 🌱 I’m currently learning <b>MySql</b>
  <p align="center">
 💬 Ask me about <b>Tech</b>
  <p align="center">

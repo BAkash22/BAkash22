@@ -5,7 +5,7 @@
     
 </p>
 
-<h1 align="center">Hi 👋 I'm Akash B</h1>
+<h1 align="center">Hi 👋, I'm Akash B</h1>
 <p align="center">
     Enthusiastic and dedicated Computer Science Engineering student seeking challenging opportunities to apply my technical skills and passion for innovation.
 </p>

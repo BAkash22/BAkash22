@@ -9,7 +9,7 @@
 <p align="center">
     Enthusiastic and dedicated Computer Science Engineering student seeking challenging opportunities to apply my technical skills and passion for innovation.
 </p>
-<h3 align="center">  Technology Enthusiast | Data Analytics | AI/ML </h3> 
+<h3 align="center">  Technology Enthusiast | Data Analytics | AI/ML </h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=bakash22&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="bakash22" />

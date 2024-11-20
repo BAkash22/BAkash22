@@ -97,8 +97,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakash22&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Akash B" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakash22&theme=dark&hide_border=true"
-      alt="Raghul M" />       </td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakash22&theme=dark&hide_border=true"alt="Akash B" />       </td>
   </tr>
 </table>
 <div align="center">
